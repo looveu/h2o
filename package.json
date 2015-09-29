@@ -1,0 +1,25 @@
+{
+  "name": "h2o",
+  "version": "0.1.0",
+  "description": "Give your node.js koa apps some extra arms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/looveu/h2o.git"
+  },
+  "keywords": [
+    "koa",
+    "rest",
+    "http",
+    "https"
+  ],
+  "author": "DomLiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/looveu/h2o/issues"
+  },
+  "homepage": "https://github.com/looveu/h2o#readme"
+}
